@@ -10,10 +10,10 @@ Learning new programming languages
 Contributing to open-source projects
 Always seeking new opportunities for growth
 📫 Connect With Me
-💻 GitHub: (You're already here! 😉🔥)
-🌍 More links coming soon!
+💻 GitHub: (You're already here! 😉🔥)    
 
 <!---
 sadakshmahindra/sadakshmahindra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+  
