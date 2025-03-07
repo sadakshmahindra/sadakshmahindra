@@ -1,4 +1,4 @@
-# Hi there, I'm Sadaksh Mahindra! 👋
+# Hey there, I'm Sadaksh Singh Mahindra! 👋
 
 I'm a beginner software developer with a strong interest in learning and growing in the field of programming. Currently, I'm diving into the world of C programming language and exploring its vast potential.
 
