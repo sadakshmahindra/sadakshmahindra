@@ -17,16 +17,11 @@ I'm a beginner software developer with a strong interest in learning and growing
 
 ---
 
-## 💬 Ask me about
+## ⚡ About me 
 
-- C programming basics
-- My learning journey
+I love exploring new technologies and am always excited to learn something new.
 
----
-
-## ⚡ Fun fact
-
-I love exploring new technologies and am always excited to learn something new!
+I also love problem solving
 
 ---
 
